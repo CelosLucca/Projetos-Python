@@ -1,2 +1,2 @@
 # projetos Python
-ACs
+Projetos feitos em sala de aula, a fim de aprendizado.
